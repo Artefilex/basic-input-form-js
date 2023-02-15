@@ -34,23 +34,5 @@ submit.addEventListener("click",(e)=>{
   
 
 
-   
-    
-   
-    // input.addEventListener("input",(e)=>{
-   
-        // if(e.target.value){
-              
-        //     document.querySelector(".labels").classList.add("active") 
-        // }
-        // else{
-        //     document.querySelector(".labels").classList.remove("active") 
-        // }
-    
-       
-    // })
-   
-
-
     
 
